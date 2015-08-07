@@ -8,8 +8,8 @@
     [b]/config[/b] : this path is where Guacamole will store it\'s properties files and the database which contains data for users and connections.[br]
     Initial username and password are [b]guacadmin[/b]
   </Description>
-  <Registry>https://registry.hub.docker.com/u/lqkme2/guacamole/</Registry>
-  <Repository>lqkme2/guacamole</Repository>
+  <Registry>https://registry.hub.docker.com/u/lqkme2/guacomole/</Registry>
+  <Repository>lqkme2/guacomole</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Environment/>
